@@ -1,0 +1,10 @@
+.menu {
+	font-family: 'IM Fell English SC', serif;
+}
+.menu > a {
+	text-decoration: none;
+	color: black;
+}
+.menu > a:visited {
+	color: pink
+}
